@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 ## 👩 About Me
 <img align="right" alt="GIF" src="https://i.ibb.co/8jd30vx/codingwithcoffee.gif" width="300" height="220" />
 
-- 🌱 I’m currently learning **JavaScript and React Native**.
+- 🌱 I’m currently learning **JavaScript, React Native and React**.
 - 📫 I graduated from Computer Engineering.
 - ⚡ How to reach me **g.tumacar97@gmail.com**
 
